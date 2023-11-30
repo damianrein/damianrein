@@ -1,5 +1,5 @@
 ### Hola, soy Damian 👋
-
+Soy desarrollador Back-End y estudiante de la licenciatura en Sistemas de Información de la UADER - FCYT.
 #
 ### Tecnologias que utilizo:
 <p align="center">
