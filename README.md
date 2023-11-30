@@ -4,7 +4,7 @@
 ### Tecnologias que utilizo:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,eclipse,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,eclipse,github,graphql,hibernate,java,spring,mysql" />
   </a>
 </p>
 
